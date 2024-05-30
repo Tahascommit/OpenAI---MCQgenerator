@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is machine learning (ML) primarily concerned with?,a: Development and study of statistical algorithms that can learn from data | b: Creating hardware for computers | c: Designing user interfaces | d: Building operating systems,a
+Which of the following fields does machine learning NOT find application in?,a: Natural language processing | b: Computer vision | c: Speech recognition | d: Manufacturing cars,d
+Who coined the term 'machine learning'?,a: Donald Hebb | b: Arthur Samuel | c: Walter Pitts | d: Warren McCulloch,b
+What is the primary focus of data mining?,a: Supervised learning | b: Unsupervised learning | c: Reinforcement learning | d: Semi-supervised learning,b
+What is the theoretical framework called that describes machine learning?,a: Exploratory Data Analysis (EDA) | b: Probably Approximately Correct (PAC) learning | c: Computational statistics | d: Mathematical optimization,b
